@@ -9,6 +9,6 @@
 - 🐈‍⬛ I'm Nataly
 - 🧑‍🎓 Softare Engineering student
 - 💻 C#,Python,C++,Mathlab,SQL
-- https://img.shields.io/badge/telegram-blue @nataishaa
+- https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge @nataishaa
   
   
