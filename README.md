@@ -5,4 +5,5 @@
 </div>
 
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me : 
+I'm Nataly <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="30"> HSE Softare Engineering student.
