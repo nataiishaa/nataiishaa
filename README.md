@@ -7,6 +7,6 @@
 
 ### :woman_technologist: About Me : 
 - 🐈‍⬛ I'm Nataly
-- 🧑‍🎓 HSE Softare Engineering student.
+- 🧑‍🎓 Softare Engineering student.
 - 💻 C#,Python,C++,Mathlab,SQL
 
