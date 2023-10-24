@@ -8,7 +8,7 @@
 ### :woman_technologist: About Me : 
 - 🐈‍⬛ I'm Nataly
 - 🧑‍🎓 Softare Engineering student
-- 💻 C#,Python,C++,Mathlab,SQL
+- 💻 C# .NET,C++,Python,Swift,Mathlab,SQL
 <div id="badges">
   <a href="https://t.me/nataishaa">
 <img src=https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge/>
