@@ -5,7 +5,7 @@
 </div>
 
 
-### :woman_technologist: About Me : 
+### 👩‍💻 About Me : 
 - 🐈‍⬛ I'm Nataly
 - 🧑‍🎓 Softare Engineering student
 - 💻 C# .NET,C++,Python,Swift,Mathlab,SQL
