@@ -8,7 +8,7 @@
 ### 👩‍💻 About Me : 
 - 🐈‍⬛ I'm Nataly
 - 🧑‍🎓 Softare Engineering student
-- 💻 C# .NET,C++,Python,Swift,Mathlab,SQL
+- 💻 C# .NET,C++,Python,Swift,Mathlab,SQL,Java
 <div id="badges">
   <a href="https://t.me/nataishaa">
 <img src=https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge/>
