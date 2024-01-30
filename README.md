@@ -8,7 +8,7 @@
 ### 👩‍💻 About Me : 
 - 🐈‍⬛ I'm Nataly
 - 🧑‍🎓 Softare Engineering student
-- 💻 C# .NET,C++,Python,Swift,Mathlab,SQL,Java
+- 💻 C# .NET,C++,Python,Swift,Matab,SQL,Java
 
   
 
