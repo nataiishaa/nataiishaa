@@ -4,8 +4,8 @@
   <img src="https://media.giphy.com/media/uzglgIsyY1Cgg/giphy.gif" width="200"/>
 </div>
 
+###  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me:)](https://git.io/typing-svg)
 
-### 👩‍💻 About Me : 
 - 🐈‍⬛ I'm Nataly
 - 🧑‍🎓 Softare Engineering student
 - 💻 C# .NET,C++,Python,Swift,Matab,SQL,Java
