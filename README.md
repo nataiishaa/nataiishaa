@@ -5,11 +5,10 @@
 </div>
 
 ###  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me:)](https://git.io/typing-svg)
-
-- 🐈‍⬛ I'm Nataly
-- 🧑‍🎓 Softare Engineering student
-- 💻 C# .NET,C++,Python,Swift,Matab,SQL,Java
-
+  <ul>
+    <li> I'm Nataly
+    <li>HSE Softare Engineering student</li>
+    <li>Stack: Java, C++, Swift, C# .NET, Python(pandas, requests), SQL</li>
   
 
 
